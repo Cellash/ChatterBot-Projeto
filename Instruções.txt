@@ -1,0 +1,2 @@
+Para que funcione o modulo é necessario está instalando a biblioteca Chatterbot onde pode ser instalado via pip ( para linux ) no windows da erro.
+Caso seja utilizado no windows a melhor maneira de instalar a biblioteca é a partir do Conda

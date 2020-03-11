@@ -1,0 +1,104 @@
+mudança de endereço
+certo, você escolheu mudança de endereço. Escolha um subtopico [ Mudança de endereço Local, Entre cidades, Erros de mudança de endereço, Liberação de endereço ]
+mudança
+certo, você escolheu mudança de endereço. Escolha um subtopico [ Mudança de endereço Local, Entre cidades, Erros de mudança de endereço, Liberação de endereço ]
+mudança de endereço local
+certo, o endereço está liberado?
+mudança local
+certo, o endereço está liberado?
+local
+certo, o endereço está liberado?
+sim, o endereço está liberado
+nesse caso, é necessario que faça o procedimento manualmente, sabe fazer?
+sim, ta liberado
+nesse caso, é necessario que faça o procedimento manualmente, sabe fazer?
+sim, está liberado
+nesse caso, é necessario que faça o procedimento manualmente, sabe fazer?
+não sei fazer a mudança de endereço
+siga o passo a passo ( aqui existe um passo a passo )
+não, nunca fiz a mudança de endereço
+siga o passo a passo ( aqui existe um passo a passo )
+ainda não fiz mudança de endereço
+siga o passo a passo ( aqui existe um passo a passo )
+não sei fazer mudança de endereço, me ajuda por favor.
+siga o passo a passo ( aqui existe um passo a passo )
+não, por favor me ajuda a fazer a mudança de endereço
+siga o passo a passo ( aqui existe um passo a passo )
+não, o endereço não está liberado
+nesse caso, abra a ocorrencia ( aqui está o chamado )
+não está liberado mudança local
+nesse caso, abra a ocorrencia ( aqui está o chamado )
+para mudança local, não está liberado
+nesse caso, abra a ocorrencia ( aqui está o chamado )
+eu não sei se o endereço se encontra liberado
+siga esse procedimento ( aqui está o procedimento ), está liberado?
+eu não sei se tá liberado
+siga esse procedimento ( aqui está o procedimento ), está liberado?
+não sei te dizer se tá liberado
+siga esse procedimento ( aqui está o procedimento ), está liberado?
+não sei dizer se tá liberado
+siga esse procedimento ( aqui está o procedimento ), está liberado?
+sei la, não sei fazer mudança
+siga esse procedimento ( aqui está o procedimento ), está liberado?
+não, não está liberado
+foi aberto algum chamado para liberação?
+não, não foi aberto chamado de liberação
+então, abra esse chamado ( aqui está o chamado ) informe prazo de tratativa
+sim, foi aberto chamado  mas sem liberação
+nesse caso, informe ao cliente que não é possivel prosseguir com contrato
+sim, mas continua sem liberação
+nesse caso, informe ao cliente que não é possivel prosseguir com contrato
+mudança entre cidades
+a cidade possui cabeamento?
+sim, possui cabeamento
+nesse caso, abra esse procedimento ( aqui está o procedimento ) algo mais?
+não, não possui cabeamento
+nesse caso, informe ao cliente que não é possivel prosseguir com contrato
+mudança de endereço entre cidades
+a cidade possui cabeamento?
+sim, possui cabeamento
+nesse caso, abra esse procedimento ( aqui está o procedimento ) algo mais?
+não, não possui cabeamento
+nesse caso, informe ao cliente que não é possivel prosseguir com contrato
+mudança para outra cidade
+a cidade possui cabeamento?
+sim, possui cabeamento
+nesse caso, abra esse procedimento ( aqui está o procedimento ) algo mais?
+não, não possui cabeamento
+nesse caso, informe ao cliente que não é possivel prosseguir com contrato
+erro de mudança de endereço
+a mensagem de erro é essa? ( mensagem 1)
+sim, é a mensagem 1
+certo, nesse caso é necessario que você faça esse procedimento ( procedimento )
+não, o erro é a mensagem 2
+certo, nesse caso é necessario que você faça esse procedimento ( procedimento )
+erro na mudança
+a mensagem de erro é essa? ( mensagem 1)
+sim, é a mensagem 1
+certo, nesse caso é necessario que você faça esse procedimento ( procedimento )
+não, o erro é a mensagem 2
+certo, nesse caso é necessario que você faça esse procedimento ( procedimento )
+erro ao mudar de endereço
+a mensagem de erro é essa? ( mensagem 1)
+sim, é a mensagem 1
+certo, nesse caso é necessario que você faça esse procedimento ( procedimento )
+não, o erro é a mensagem 2
+certo, nesse caso é necessario que você faça esse procedimento ( procedimento )
+liberação de endereço
+já foi pedido liberação antes?
+liberação
+já foi pedido liberação antes?
+não, nunca foi pedido
+nesse caso, abra esse chamado ( chamado )
+não, ainda não foi aberto
+nesse caso, abra esse chamado ( chamado )
+não, não foi pedido ainda
+nesse caso, abra esse chamado ( chamado )
+sim, já foi pedido
+faz mais de 365 dias?
+não, ainda não faz
+passe o prazo para o cliente de 1 ano após o ultimo pedido
+sim, já foi pedido
+faz mais de 365 dias?
+sim, já faz mais de 365 dias
+então abra novamente esse chamado ( chamado )

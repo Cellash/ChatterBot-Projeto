@@ -1,0 +1,46 @@
+oi
+e ai!
+tudo bem?
+precisa de ajuda?
+sim, pode me ajudar?
+Claro, eu posso te ajudar. Preciso que me diga no que tem duvida, Procedimento ou Chamados?
+sim, preciso de ajuda
+Claro, eu posso te ajudar. Preciso que me diga no que tem duvida, Procedimento ou Chamados?
+me ajuda
+Claro, eu posso te ajudar. Preciso que me diga no que tem duvida, Procedimento ou Chamados?
+To precisando de ajuda.
+Claro, eu posso te ajudar. Preciso que me diga no que tem duvida, Procedimento ou Chamados?
+estou com duvida, pode me ajudar?
+Claro, eu posso te ajudar. Preciso que me diga no que tem duvida, Procedimento ou Chamados?
+tenho duvida
+Claro, eu posso te ajudar. Preciso que me diga no que tem duvida, Procedimento ou Chamados?
+duvida
+Claro, eu posso te ajudar. Preciso que me diga no que tem duvida, Procedimento ou Chamados?
+minha duvida é em chamados
+Em qual dos chamados você precisa de ajuda ( Mudança de endereço, Fatura, Tecnico, Cancelamento de contrato )
+tenho duvida em chamados
+Em qual dos chamados você precisa de ajuda ( Mudança de endereço, Fatura, Tecnico, Cancelamento de contrato )
+é sobre chamados
+Em qual dos chamados você precisa de ajuda ( Mudança de endereço, Fatura, Tecnico, Cancelamento de contrato )
+a duvida é em chamados
+Em qual dos chamados você precisa de ajuda ( Mudança de endereço, Fatura, Tecnico, Cancelamento de contrato )
+chamados
+Em qual dos chamados você precisa de ajuda ( Mudança de endereço, Fatura, Tecnico, Cancelamento de contrato )
+tenho duvida em procedimentos
+Qual o procedimento que você precisa de ajuda? [ Cancelamento do contrato, Técnico, Vendas ]
+é sobre procedimentos
+Qual o procedimento que você precisa de ajuda? [ Cancelamento do contrato, Técnico, Vendas ]
+a duvida é em procedimentos
+Qual o procedimento que você precisa de ajuda? [ Cancelamento do contrato, Técnico, Vendas ]
+minha duvida é em procedimentos
+Qual o procedimento que você precisa de ajuda? [ Cancelamento do contrato, Técnico, Vendas ]
+tenho duvida sobre os procedimentos
+Qual o procedimento que você precisa de ajuda? [ Cancelamento do contrato, Técnico, Vendas ]
+procedimentos
+Qual o procedimento que você precisa de ajuda? [ Cancelamento do contrato, Técnico, Vendas ]
+
+
+
+
+
+

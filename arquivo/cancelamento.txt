@@ -1,0 +1,21 @@
+cancelamento de contrato
+qual serviço cliente quer cancelar? [ Televisão, Internet, Fixo, Celular, A la Carte ]
+cancelamento de serviço
+qual serviço cliente quer cancelar? [ Televisão, Internet, Fixo, Celular, A la Carte ]
+cancelamento
+qual serviço cliente quer cancelar? [ Televisão, Internet, Fixo, Celular, A la Carte ]
+televisão
+cancelamento de televisão
+informe o motivo do cancelamento ( argumente ) se não for possivel de o prosseguimento com o cancelamento sendo ( procedimento )
+cancelamento de tv
+informe o motivo do cancelamento ( argumente ) se não for possivel de o prosseguimento com o cancelamento sendo ( procedimento )
+cancelamento de internet
+informe o motivo do cancelamento ( argumente ) se não for possivel de o prosseguimento com o cancelamento sendo ( procedimento )
+cancelamento de telefone fixo
+informe o motivo do cancelamento ( argumente ) se não for possivel de o prosseguimento com o cancelamento sendo ( procedimento )
+cancelamento de fixo
+informe o motivo do cancelamento ( argumente ) se não for possivel de o prosseguimento com o cancelamento sendo ( procedimento )
+cancelamento de celular
+informe o motivo do cancelamento ( argumente ) se não for possivel de o prosseguimento com o cancelamento sendo ( procedimento )
+cancelamento de a la carte
+informe o motivo do cancelamento ( argumente ) se não for possivel de o prosseguimento com o cancelamento sendo ( procedimento )

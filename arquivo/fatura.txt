@@ -1,0 +1,44 @@
+fatura
+qual a duvida que você tem sobre fatura? [ segunda via, maneiras de envio da fatura, prazo de segunda via, contestação de fatura, cancelamento de fatura ]
+segunda via de fatura
+siga esse ( procedimento ) assim vai poder enviar segunda via
+segunda via
+siga esse ( procedimento ) assim vai poder enviar segunda via
+maneiras de envio da fatura
+é possivel enviar por correio, email e em forma de braile ( por correio )
+maneiras de envio
+é psosivel enviar por correio, email e em forma de braile ( por correio )
+forma de envio
+é possivel enviar por correio, email e em forma de braile ( por correio )
+envio de segunda via
+é possivel enviar por correio, email e em forma de braile ( por correio )
+prazo de segunda via
+qual prazo você quer? Correio ou E-mail
+e-mail
+o prazo para recebimento é de 2h corridas
+email
+o prazo para recebimento é de 2h corridas
+correio
+o prazo para recebimento são de 7 dias uteis
+contestação de fatura
+os valores estão errados?
+sim, estão errados
+sim, realize a contestação por via desse ( procedimento )
+não, estão certos
+informe ao cliente que os valores estão corretos e não é possivel contestar
+cliente não aceita as informações sobre contestação
+abra chamado de reclamação para o cliente ( chamado )
+contestação de itens
+os valores estão errados?
+sim, estão errados
+sim, realize a contestação por via desse ( procedimento )
+não, estão certos
+informe ao cliente que os valores estão corretos e não é possivel contestar
+cliente não aceita as informações sobre contestação
+abra chamado de reclamação para o cliente ( chamado )
+cancelamento de fatura
+a fatura está totalmente errada?
+sim, está totalmente errada
+nesse caso abra esse ( chamado )
+não, só apenas algumas partes
+então abra a contestação de fatura, peça por contestação de fatura no chat

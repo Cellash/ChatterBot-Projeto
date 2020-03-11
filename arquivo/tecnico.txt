@@ -1,0 +1,43 @@
+tecnico
+Escolha um dos serviços [ televisao, internet, telefone fixo ]
+problema na televisao
+qual problema? [ está em preto e branco, má qualidade na transmisão, perda de sinal total, perca de audio ]
+ta preto e branco
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+está em preto e branco
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+ma qualidade na transmisão
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+transmissão ruim
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+perda de sinal total
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+sem sinal total
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+perca de audio total
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+sem audio nenhum
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+resolvido?
+sim, foi resolvido
+há algo mais que posso te ajudar?
+problema na internet
+informe qual problema: [ Intermitencia, Sem acesso, Perca de pacote ]
+intermitencia
+no caso de intermitencia faça esses ( procedimentos ) se continuar abra esse ( chamado )
+sem acesso
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+perca de pacote
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+internet caindo e voltando
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+problema no telefone
+escolha um dos problemas: [ ruido na chamada, mudo, telefone indisponivel ]
+ruido na chamada
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+telefone mudo
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+mudo
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
+telefone indisponivel
+siga com esses ( procedimentos ) caso não resolva abra esse (chamado)
